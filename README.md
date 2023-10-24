@@ -10,7 +10,10 @@ Well, you are getting the notes from someone who is also lazy, but you are 100% 
 TLDR; Depends on your teachers. And you can modify it to say YOU did it. cheat prevention :D
 
 ## Is this licensed?
-I don't care, let the project spread the world! You are allowed to redistribute it, I am totally NOT coming back to this after my test!
+I don't care, let the project spread the world! I am totally NOT coming back to this after my test! 
+Want to redistribute because it was helpful? Sure!
+Want to vandalize your download? Ok!
+Want to use this document to summon the demons from the depths of hell? Hey, as long as you don't blame it on me, feel free to explore the darker realms of academia!
 
 ## I prefer creating my own notes.
 It's fine lol
